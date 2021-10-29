@@ -1,0 +1,52 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GUI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Program.cpp
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(77,43): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(77,32): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(77,21): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(110,40): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(111,44): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(112,44): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(123,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(180,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(184,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(189,13): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(193,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(252,15): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(253,19): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(318,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(321,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(324,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\Program.cpp(327,12): warning C4305: '-=': truncation from 'double' to 'float'
+  GUI.vcxproj -> C:\Users\yeral\Documents\ELTE (Hungary)\MSc Applied Mathematics\2020-2021\Fall semester\Computer vision class\Second HW\x64\Debug\HW2.exe
